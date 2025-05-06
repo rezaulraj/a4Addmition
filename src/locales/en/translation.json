@@ -1,0 +1,316 @@
+{
+  "menu": {
+    "home": "Home",
+    "services": "Services",
+    "studyAbrod": "Study Abroad",
+    "studyAl1": "Canada",
+    "studyAl2": "United States",
+    "studyAl3": "United Kingdom",
+    "studyAl4": "Australia",
+    "highschoolcanada": "Highschool in Canada",
+    "highschooll1": "Columbia College",
+    "highschooll2": "Blyth Academy",
+    "highschooll3": "Columbia International College",
+    "event": "Event",
+    "artical": "Article/News",
+    "about": "About Us",
+    "faq": "FAQ",
+    "contact": "Contact"
+  },
+  "banner": {
+    "btext": "Kuliah ke luar negeri? Salak Ed siap membantu anda!"
+  },
+  "home": {
+    "frontText": {
+      "textpri": "Unlock Your Global Education Dreams",
+      "textsec": "Expert study abroad guidance from A4 Admission",
+      "btn": "Get FREE Consultation Now"
+    },
+    "second": {
+      "texth": "Study Abroad with A4 Admission",
+      "textp1": "A4 Admission is a leading education consultancy specializing in study abroad programs for high school and university students. We offer tailored admissions support for top destinations like Canada, the USA, the UK, Malta, Russia and Australia.",
+      "textp2": "Our global presence with teams in Asia, Europe And the USA, ensures seamless assistance at every step, from university selection to visa processing and post-arrival settlement.",
+      "btn": "About Us"
+    },
+    "third": {
+      "texth": "Find Program and School",
+      "btn1": "Destination",
+      "btn2": "Find Programs",
+      "btn3": "Process"
+    },
+    "forth": {
+      "testfirst": "WHY",
+      "p": "We believe everyone deserves a transformative future by accessing the world’s best education opportunities",
+      "p2": "25+ Years of industry expertise",
+      "p3": "First-Hand Experience – Our team studied, worked, and lived in the USA & Canada",
+      "p4": "100+ Partner Institutions across major Canadian provinces for seamless settlement",
+      "p5": "100% Employment Support via career coaching & industry ties",
+      "p6": "90% Acceptance Rate at top colleges/universities",
+      "p7": "End-to-End Living Support  From visas to cultural adaptation"
+    },
+    "fifth": {
+      "title1": "Free Consultation",
+      "des1": "Let’s talk! Sit down with our experienced counselors to discuss your study goals, preferred destination, academic background (GPA), and budget.",
+
+      "title2": "Research & Discovery",
+      "des2": "Based on your profile, we’ll recommend the best-fit universities or colleges – including tuition fees, application deadlines, and future employment opportunities.",
+
+      "title3": "Document Preparation",
+      "des3": "No guesswork here. We’ll walk you through exactly what you need – from transcripts and passports to English test scores and letters of recommendation.",
+
+      "title4": "Application Submission",
+      "des4": "Once you're ready, we’ll take care of submitting your applications and handling the necessary fee payments – all on your behalf.",
+
+      "title5": "Offer letter",
+      "des5": "🎉 Good news! If selected, you’ll receive your official Letter of Acceptance (LOA) from the institution.",
+
+      "title6": "Tuition Payment",
+      "des6": "With your LOA in hand, you can confidently pay your tuition fees directly to the school.",
+
+      "title7": "Student Visa Assistance",
+      "des7": "Our experts will help you prepare and submit your visa application, ace the interview, and ensure all immigration paperwork is in order.",
+
+      "title8": "Travel & Settlement",
+      "des8": "We’ll assist with flight bookings, airport pickups, and housing arrangements through our trusted overseas partners.",
+
+      "title9": "Pre-Departure Briefing",
+      "des9": "Prepare for success! Our final session equips you with essential knowledge and tips for your first week abroad – covering banking, safety, and culture.",
+      "headingbuttom": "Your Global Journey Begins Here – With A4 Admission by Your Side!"
+    },
+    "objective": {
+      "heading": "We believe every people deserve to have a meaningful life by pursuing the best education that the world can offer to.",
+      "icon1": "25+ years accumulated experience in the industry",
+      "icon2": "First-hand experience to study, work, and live in Canada and United States",
+      "icon3": "We have partners in major Canada provinces to help students get settled in Canada",
+      "icon4": "100% employment rate through program career coach",
+      "icon5": "90% colleges and universities acceptance rate",
+      "icon6": "We understand it is not easy to live abroad, we are here to help students to get the best living experience",
+      "why": "why"
+    },
+    "university": {
+      "title": "100+ University partners",
+      "btn": "See all"
+    },
+    "testmoni": {
+      "left": {
+        "h1": "Choosing the right university wisely",
+        "hb2": "Set the foundation for a smoother, more rewarding journey abroad.",
+        "p1": "We help you select a university that not only matches your academic goals but also supports your long-term success making your journey abroad smoother and more fulfilling."
+      }
+    },
+    "program": {
+      "ph1": "More Than 1000 Programs to Choose From",
+      "engineering": {
+        "h1": "Engineering & Technology",
+        "el1": "Aviation, Aero Space and Pilot Technology",
+        "el2": "Agricultural Engineering & Sciences",
+        "el3": "Architecture & Urban Design",
+        "el4": "Biomedical & Bioengineering",
+        "el5": "Chemical & Process Engineering",
+        "el6": "Civil Engineering & Construction Management",
+        "el7": "Electrical & Power Engineering",
+        "el8": "Electronics & Telecommunication Systems",
+        "el9": "Environmental & Sustainability Engineering",
+        "el10": "Game Development, Animation & Design",
+        "el11": "Industrial & Systems Engineering",
+        "el12": "Materials Science & Nanotechnology",
+        "el13": "Mechanical, Manufacturing & Robotics Engineering",
+        "el14": "Radiologic Technology",
+        "el15": "Computer Science, IT & Software Development"
+      },
+      "science": {
+        "h1": "Science",
+        "sl1": "Biochemistry & Molecular Biology",
+        "sl2": "Biological Sciences",
+        "sl3": "Chemistry & Applied Chemistry",
+        "sl4": "Computer Science & Programming",
+        "sl5": "Dentistry",
+        "sl6": "Earth, Environmental & Climate Sciences",
+        "sl7": "Food Science, Nutrition & Sports Science",
+        "sl8": "Geology & Geoscience",
+        "sl9": "Mathematical & Statistical Sciences",
+        "sl10": "Optometry & Vision Science",
+        "sl11": "Pharmaceutical Sciences & Pharmacy",
+        "sl12": "Physics & Applied Physics",
+        "sl13": "Political Science & International Affairs",
+        "sl14": "Psychology, Philosophy & Therapy Practices",
+        "sl15": "Veterinary Medicine",
+        "sl16": "Psychology, Philosophy, Therapy",
+        "sl17": "Veterinarian"
+      },
+      "arts": {
+        "h1": "Arts",
+        "al1": "Anthropology & Cultural Studies",
+        "al2": "Communications & Media Studies",
+        "al3": "English Literature & Creative Writing",
+        "al4": "Fashion Design & Beauty Therapy",
+        "al5": "Fine Arts & Visual Arts",
+        "al6": "Culinary Arts & Food Studies",
+        "al7": "Gender & Identity Studies",
+        "al8": "Geography & Human Geography",
+        "al9": "Graphic & Interior Design",
+        "al10": "Graphic Design, Interior Design",
+        "al11": "History & Historical Research",
+        "al12": "Languages & Linguistics",
+        "al13": "Journalism & News Media",
+        "al14": "Liberal Arts & Interdisciplinary Studies",
+        "al15": "Film, Theatre & Performing Arts",
+        "al16": "Music, Sound & Audio Production",
+        "al17": "Urban & Regional Planning",
+        "al18": "Religious Studies & Theology",
+        "al19": "Sociology & Social Research"
+      },
+      "busness": {
+        "h1": "Business, Management & Economics",
+        "al1": "Accounting & Financial Reporting",
+        "al2": "Entrepreneurship & Innovation",
+        "al3": "Finance, Economics & Investment",
+        "al4": "Hospitality, Tourism & Hotel Management",
+        "al5": "Human Resource Management",
+        "al6": "International Trade & Global Business",
+        "al7": "Business Administration & Operations",
+        "al8": "Marketing & Digital Strategy",
+        "al9": "Business Analytics & Data Interpretation",
+        "al10": "Advertising & Brand Communication",
+        "al11": "Public Relations & Corporate Communication",
+        "al12": "Logistics & Supply Chain Management"
+      },
+      "health": {
+        "h1": "Health Science & Nurse",
+        "al1": "General Health Sciences",
+        "al2": "Medicine & Clinical Studies",
+        "al3": "Nursing & Patient Care",
+        "al4": "Paramedicine & Emergency Response",
+        "al5": "Kinesiology & Movement Science"
+      },
+      "social": {
+        "h1": "Community, Social Service",
+        "al1": "Law, Criminal Justice & Legal Studies",
+        "al2": "Political Science, Government & Policy",
+        "al3": "Policing, Security & Protective Services",
+        "al4": "Teaching, Early Childhood & Educational Support",
+        "al5": "Community Work & Social Services"
+      }
+    }
+  },
+
+  "studyabrod": {
+    "canada": {
+      "topText": {
+        "cath": "Study Abroad in Canada",
+        "catp": "Canada consistently ranks as one of the best countries in the world to live in, thanks to factors like its excellent healthcare system, high stkamurd of education, and overall quality of life. Many Canadians enjoy a good work-life balance, and the country is known for its friendly, welcoming atmosphere."
+      },
+      "subTextL": {
+        "subTextLh": "Why Study in Canada?",
+        "subhfh0": "Multicultural Society",
+        "subhfp0": "Canadians are known for being friendly, open and tolerant and Canada welcome students’s from more  than 200 ethnic origins.",
+        "subhfh1": "World-Class Language Education",
+        "subhfp1": "Canada is a bilingual country and its considered a world leader in language training since teaching of French and English as a frist and second languages is an integral part of a Canadian education.",
+        "subhfh2": "Innovative and Abundant Research Opportunities",
+        "subhfp2": "The education system in Canada is grounded in a culture of research and development with excellent research facilities supported by Canadian goverment and industry.",
+        "subhfh3": "Possibility of Immigration",
+        "subhfp3": "Some international students with Canadian credentials and Canadian work experience may apply for permanent residency without having to leave Canada.",
+        "subhfh4": "Affordable Education",
+        "subhfp4": "Cost of living and tution fees for internasional students are generally lower in Canada than in other countries.",
+        "subhfh5": "Healthy and Safe Communities",
+        "subhfp5": "The United Nations consistenly ranks Canada as one of the best places in the world to live. You will enjoy all of the freedoms which protect Canadians: respect for human rights, equality, and a stable and peaceful society.",
+        "subhfh6": "Exciting Campus Lifestyle",
+        "subhfp6": "From wired libraries and Olympic-quality sports facilities, to public concert halls and art galleries, Canada’s post-secondary campuses offer you enormous possibilities to combine learning and leisure.",
+        "subhfh7": "Work During Your Study & Work Permit After Graduate",
+        "subhfp7": "Opportunity to work part-time on- or off-campus up to 20 hours per week while study in Canada. You may also work full-time on a scheduled break (e.g summer break). This will help you to save up some money. Opportunity post-graduate work permits up to 3 years."
+      },
+      "subTextR": {
+        "btn": "FREE CONSULTATION",
+        "subhr1": "Gapai mimpimu!",
+        "subpr1":"Rencanakan masa depanmu dengan Salak Ed",
+        "subrph1": "Experience",
+        "subrpt1": "With over 25 years of industry experience and nationwide partnerships",
+        "subrph2": "Support",
+        "subrpt2": "High acceptance rates, international experience, and comprehensive support",
+        "subrph3": "Employment Rate",
+        "subrpt3": "100% employment rate and focus on a great living experience",
+        "btn2": "Konsultasi Sekarang"
+      },
+
+      "thirdText": {
+        "th": "Study Info in Canada",
+        "thfh1": "Living cost major cities in Canada",
+        "thfh1ph1": "Toronto:",
+        "thfh1p1": "Toronto is Canada's largest city and one of the most expensive places to live in the country. The cost of living in Toronto is driven up by high housing prices, transportation costs, and food expenses. The average rent for a one-bedroom apartment in the city center is around CAD 2,000 per month, while the cost of a meal at a mid-range restaurant is around CAD 20.",
+        "thfh1ph2": "Vancouver:",
+        "thfh1p2": "Vancouver is a coastal city in Western Canada and is known for its stunning natural scenery. The cost of living in Vancouver is high due to high housing prices, transportation costs, and food expenses. The average rent for a one-bedroom apartment in the city center is around CAD 1,900 per month, while the cost of a meal at a mid-range restaurant is around CAD 20.",
+        "thfh1ph3": "Montreal:",
+        "thfh1p3": "Montreal is the second-largest city in Canada and is located in the province of Quebec. The cost of living in Montreal is generally lower than in Toronto and Vancouver, although it can still be expensive. The average rent for a one-bedroom apartment in the city center is around CAD 1,200 per month, while the cost of a meal at a mid-range restaurant is around CAD 15.",
+        "thfh1ph4": "Calgary:",
+        "thfh1p4": "Calgary is a city located in the province of Alberta and is known for its thriving oil and gas industry. The cost of living in Calgary is generally lower than in Toronto and Vancouver, although it can still be expensive. The average rent for a one-bedroom apartment in the city center is around CAD 1,400 per month, while the cost of a meal at a mid-range restaurant is around CAD 20.",
+        "thfh1ph5": "Ottawa:",
+        "thfh1p5": "Ottawa is the capital city of Canada and is located in the province of Ontario. The cost of living in Ottawa is generally lower than in Toronto and Vancouver, although it can still be expensive. The average rent for a one-bedroom apartment in the city center is around CAD 1,400 per month, while the cost of a meal at a mid-range restaurant is around CAD 20.",
+        "thfh1ph6": "Manitoba:",
+        "thfh1p6": "Manitoba is a province located in the central part of Canada. The cost of living in Manitoba is generally lower than in some of Canada's larger cities. The average rent for a one-bedroom apartment in Winnipeg, Manitoba's largest city, is around CAD 1,100 per month. The cost of a meal at a mid-range restaurant in Winnipeg is around CAD 15It's important to note that these costs are just estimates and can vary depending on your lifestyle and specific circumstances.",
+
+        "thfh2": "International Student in Canada",
+        "thfh2ph1": "Study permit",
+        "thfh2p1": "All international students must obtain a study permit to live and study in Canada. A study permit is a document issued by the Government of Canada that allows international students to study at a designated learning institution (DLI) in Canada for a specific period of time. The processing time for a study permit can vary depending on factors such as your country of origin and the time of year. On average, it takes 20 business weeks to process the study permit after you complete the biometrics, and if you meet the eligibility.",
+        "thfh2ph2": "Work permit",
+        "thfh2p2": "International students in Canada may be eligible to work up to 20 hours per week on or off campus while they study. To work off-campus, you must have a study permit and be enrolled in a full-time program. You may also be eligible for a post-graduation work permit after you complete your program of study. Depending on your length of study, international students can obtain Post Graduate Work Permit (PGWP) up to there years.",
+        "thfh2ph3": "Minimum Wage",
+        "thfh2p3": "Minimum wage in Canada varies depending on the provinces. As of year 2022, the minimum wage rates in Canada are as follows:",
+        "thfh2p3l1":"Alberta: CAD 15.00 per hour",
+        "thfh2p3l2":"British Columbia: CAD 15.20 per hour",
+        "thfh2p3l3":"Manitoba: CAD 12.00 per hour",
+        "thfh2p3l4":"New Brunswick: CAD 12.50 per hour",
+        "thfh2p3l5":"Newfoundland and Labrador: CAD 12.50 per hour",
+        "thfh2p3l6":"Northwest Territories: CAD 15.20 per hour",
+        "thfh2p3l7":"Nova Scotia: CAD 12.95 per hour",
+        "thfh2p3l8":"Nunavut: CAD 16.00 per hour",
+        "thfh2p3l9":"Ontario: CAD 14.35 per hour",
+        "thfh2p3l10":"Prince Edward Island: CAD 13.25 per hour",
+        "thfh2p3l11":"Quebec: CAD 13.50 per hour",
+        "thfh2p3l12":"Saskatchewan: CAD 11.81 per hour",
+        "thfh2p3l13":"Yukon: CAD 15.20 per hour",
+        "thfh2ph4": "Cooperative Education (Co-op)",
+        "thfh2p4": "A program offered by many universities and colleges that allows students to gain practical work experience in their field of study. Students are typically required to meet academic performance standards and complete specific courses before being eligible for co-op placements. Most co-op placements last between four and eight months. Co-op programs are popular in Canada because they offer many benefits to students, including the opportunity to gain work experience, develop professional networks, and earn money to offset the cost of tuition. Co-op programs can also help students clarify their career goals and make more informed decisions about their future career paths.",
+        "thfh3":"Geography facts Canada",
+        "thfh3ph5": "Location",
+        "thfh2p5": "Canada is a country located in North America, spanning from the Atlantic Ocean in the east to the Pacific Ocean in the west, and northward into the Arctic Ocean. It is the second-largest country in the world by land area, covering 9.98 million square kilometers (3.85 million square miles). Canada is more than 5 times larger than Indonesia in terms of land area.",
+        "thfh2ph6": "Climate",
+        "thfh2p6": "Canada experiences four distinct seasons: spring, summer, fall, and winter Spring (March to May): In many parts of Canada, spring is characterized by mild temperatures and rain. spring temperatures can range from around 5°C to 20°C Summer (June to August): Summers in Canada are usually warm to hot, with temperatures ranging from 20°C to 35°C. Fall (September to November): The weather is usually mild and comfortable with temperatures ranging from 10°C to 20°C Winters in Canada are cold and snowy, with temperatures dropping well below freezing. Winter temperatures can range from around -10°C to -35°C depending on the region."
+      }
+    }
+  },
+  "contact": {
+    "contactFront": {
+      "heading": "Need Help? Let’s Connect!",
+      "subheading": "Got questions about studying abroad or need support with your application? We're here to guide you every step of the way."
+    },
+    "subContact": {
+      "p1": "Drop us a message and our education advisor will reach out as soon as possible.",
+      "p2": "Come visit our office, or if you’re in the Jabodetabek area, we’re happy to meet you in person.",
+      "p3": "Prefer face-to-face?",
+      "p4": "Prefer online?",
+      "p5": "We can set up a Zoom, Google Meet, or your platform of choice."
+    },
+    "from": {
+      "heading": "Message Us Directly",
+      "email": "Email",
+      "emailp": "Your email goes here",
+      "name": "Full Name",
+      "namep": "Type your full name",
+      "number": "Phone / WhatsApp",
+      "phonep": "Your contact number",
+      "message": "Your Message",
+      "messagep": "Tell us how we can support you",
+      "btn": "Send Message"
+    },
+    "location": {
+      "location1": "Whatsapp Canadian",
+      "number1": "+1 (226) 792 8584",
+      "location2": "Whatsapp Indonesian",
+      "number2": "+62 878-2066-7883",
+      "address1": "Canadian Address",
+      "address1sub": "Salak Education Consulting Kitchener, Ontario, Canada",
+      "address2": "Indonesian Address",
+      "address2sub": "Jl. Yasmin Raya no. 16 A, Bogor"
+    }
+  }
+}
