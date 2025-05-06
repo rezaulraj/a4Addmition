@@ -60,20 +60,16 @@ const Header = () => {
       title: t("menu.highschoolcanada"),
       subNav: [
         {
-          title: t("menu.studyAl1"),
+          title: t("menu.highschooll1"),
           path: "/pages/study-abroad-canada",
         },
         {
-          title: t("menu.studyAl2"),
+          title: t("menu.highschooll2"),
           path: "/pages/study-abroad-united-states",
         },
         {
-          title: t("menu.studyAl3"),
+          title: t("menu.highschooll3"),
           path: "/pages/study-abroad-united-kingdom",
-        },
-        {
-          title: t("menu.studyAl4"),
-          path: "/pages/study-abroad-australia",
         },
       ],
     },
@@ -198,7 +194,7 @@ const Header = () => {
                 {/* Sub-navigation dropdown */}
                 {item.subNav && (
                   <div
-                    className={`absolute left-0 top-full mt-0 w-48 bg-white shadow-lg rounded-md z-50 
+                    className={`absolute left-0 top-full mt-0 w-56 bg-white shadow-lg rounded-md z-50 
             ${
               hoveredItem === idx
                 ? "opacity-100 visible"
@@ -211,7 +207,7 @@ const Header = () => {
                         <li key={subIdx}>
                           <Link
                             to={subItem.path}
-                            className={`block px-4 py-2 text-[16px] text-gray-700 hover:bg-gray-100 font-quicksand ${
+                            className={`block px-4 py-2 text-[14px] text-gray-700 hover:bg-gray-100 font-quicksand ${
                               location.pathname === item.path
                                 ? "border-b-2 border-redest-dark text-redest-dark"
                                 : "text-gray-800 hover:text-redest-dark hover:border-b-2 hover:border-redest-dark duration-300"
