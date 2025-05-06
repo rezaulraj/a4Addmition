@@ -2,8 +2,11 @@ import React from "react";
 import canada from "../../assets/country/canada.webp";
 import { useTranslation } from "react-i18next";
 import FaqsCard from "../components/FaqsCard";
-
+import studyInfo from "../../assets/country/cimg1.webp";
 import Sidebar from "./Sidebar";
+import Testimonial from "../home/Testimonial";
+import ContactFrom from "../components/ContactFrom";
+import Carusel from "../home/Carusel";
 const Canada = () => {
   const { t } = useTranslation();
   const faqsList = [
@@ -38,6 +41,60 @@ const Canada = () => {
     {
       q: t("studyabrod.canada.subTextL.subhfh7"),
       a: t("studyabrod.canada.subTextL.subhfp7"),
+    },
+  ];
+
+  const faqsList2 = [
+    {
+      q: t("studyabrod.canada.thirdText.thfh1"),
+      h1: t("studyabrod.canada.thirdText.thfh1ph1"),
+      a1: t("studyabrod.canada.thirdText.thfh1p1"),
+      h2: t("studyabrod.canada.thirdText.thfh1ph2"),
+      a2: t("studyabrod.canada.thirdText.thfh1p2"),
+      h3: t("studyabrod.canada.thirdText.thfh1ph3"),
+      a3: t("studyabrod.canada.thirdText.thfh1p3"),
+      h4: t("studyabrod.canada.thirdText.thfh1ph4"),
+      a4: t("studyabrod.canada.thirdText.thfh1p4"),
+      h5: t("studyabrod.canada.thirdText.thfh1ph5"),
+      a5: t("studyabrod.canada.thirdText.thfh1p5"),
+      h6: t("studyabrod.canada.thirdText.thfh1ph6"),
+      a6: t("studyabrod.canada.thirdText.thfh1p6"),
+    },
+    {
+      q: t("studyabrod.canada.thirdText.thfh2"),
+      h1: t("studyabrod.canada.thirdText.thfh2ph1"),
+      a1: t("studyabrod.canada.thirdText.thfh2p1"),
+      h2: t("studyabrod.canada.thirdText.thfh2ph2"),
+      a2: t("studyabrod.canada.thirdText.thfh2p2"),
+      h3: t("studyabrod.canada.thirdText.thfh2ph3"),
+      a3: t("studyabrod.canada.thirdText.thfh2p3"),
+      lists: [
+        { list: t("studyabrod.canada.thirdText.thfh2p3l1") },
+        { list: t("studyabrod.canada.thirdText.thfh2p3l2") },
+        { list: t("studyabrod.canada.thirdText.thfh2p3l3") },
+        { list: t("studyabrod.canada.thirdText.thfh2p3l4") },
+        { list: t("studyabrod.canada.thirdText.thfh2p3l5") },
+        { list: t("studyabrod.canada.thirdText.thfh2p3l6") },
+        { list: t("studyabrod.canada.thirdText.thfh2p3l7") },
+        { list: t("studyabrod.canada.thirdText.thfh2p3l8") },
+        { list: t("studyabrod.canada.thirdText.thfh2p3l9") },
+        { list: t("studyabrod.canada.thirdText.thfh2p3l10") },
+        { list: t("studyabrod.canada.thirdText.thfh2p3l11") },
+      ],
+
+      h4: t("studyabrod.canada.thirdText.thfh2ph4"),
+      a4: t("studyabrod.canada.thirdText.thfh2p4"),
+      h5: t("studyabrod.canada.thirdText.thfh2ph5"),
+      a5: t("studyabrod.canada.thirdText.thfh2p5"),
+      h6: t("studyabrod.canada.thirdText.thfh2ph6"),
+      a6: t("studyabrod.canada.thirdText.thfh2p6"),
+    },
+    {
+      q: t("studyabrod.canada.thirdText.thfh3"),
+      h1: t("studyabrod.canada.thirdText.thfh3ph5"),
+      a1: t("studyabrod.canada.thirdText.thfh3p5"),
+      h2: t("studyabrod.canada.thirdText.thfh3ph6"),
+      a2: t("studyabrod.canada.thirdText.thfh3p6"),
     },
   ];
   return (
@@ -80,6 +137,27 @@ const Canada = () => {
           <Sidebar />
         </div>
       </section>
+
+      <section className="bg-red-gray py-10">
+        <div className="grid grid-cols-1 md:grid-cols-2 max-w-screen-xl mx-auto p-4 gap-18">
+          <div className="">
+            <img src={studyInfo} alt="" />
+          </div>
+          <div className="flex-1">
+            <h1 className="text-gray-800 text-4xl font-bold font-quicksand">
+              {t("studyabrod.canada.thirdText.th")}
+            </h1>
+            <div className="mt-14">
+              {faqsList2.map((item, idx) => (
+                <FaqsCard idx={idx} faqsList={item} />
+              ))}
+            </div>
+          </div>
+        </div>
+      </section>
+      <Testimonial />
+      <ContactFrom />
+      <Carusel />
     </div>
   );
 };

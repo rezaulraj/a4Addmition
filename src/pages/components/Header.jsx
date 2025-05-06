@@ -211,7 +211,7 @@ const Header = () => {
                         <li key={subIdx}>
                           <Link
                             to={subItem.path}
-                            className={`block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 font-quicksand ${
+                            className={`block px-4 py-2 text-[16px] text-gray-700 hover:bg-gray-100 font-quicksand ${
                               location.pathname === item.path
                                 ? "border-b-2 border-redest-dark text-redest-dark"
                                 : "text-gray-800 hover:text-redest-dark hover:border-b-2 hover:border-redest-dark duration-300"
@@ -268,7 +268,7 @@ const Header = () => {
                           {item.subNav && (
                             <button
                               onClick={() => toggleItem(idx)}
-                              className="px-4 py-2"
+                              className="px-4 py-2 cursor-pointer"
                             >
                               {expandedItems.includes(idx) ? (
                                 <MdKeyboardArrowUp />
@@ -284,7 +284,7 @@ const Header = () => {
                               <li key={subIdx}>
                                 <Link
                                   to={subItem.path}
-                                  className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100"
+                                  className="block px-4 py-2 text-[15px] text-gray-700 hover:bg-gray-100"
                                   onClick={() => setIsMenuOpen(false)}
                                 >
                                   {subItem.title}

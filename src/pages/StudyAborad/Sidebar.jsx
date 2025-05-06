@@ -50,12 +50,13 @@ const Sidebar = () => {
           <div className="my-4 flex items-center gap-4">
             <Link
               to={"/contact"}
-              className="before:ease relative h-12 w-auto overflow-hidden flex-1 text-center border border-redest-dark bg-redest-dark text-white shadow-2xl transition-all before:absolute before:right-0 before:top-0 before:h-12 before:w-6 before:translate-x-12 before:rotate-6 before:bg-white before:opacity-10 before:duration-700 hover:shadow-gray-500 hover:before:-translate-x-40 uppercase rounded-xl px-4 py-3 tracking-wider cursor-pointer font-bold"
+              className="before:ease relative h-12 w-auto overflow-hidden flex-1 text-center border border-redest-dark bg-redest-dark text-white shadow-2xl transition-all before:absolute before:right-0 before:top-0 before:h-12 before:w-6 before:translate-x-12 before:rotate-6 before:bg-white before:opacity-10 before:duration-700 hover:shadow-gray-500 hover:before:-translate-x-80 uppercase rounded-xl px-4 py-3 tracking-wider cursor-pointer font-bold hover:scale-95 transition-transform duration-300"
             >
               {t("studyabrod.canada.subTextR.btn2")}
             </Link>
             <a
-              href=""
+              href="https://api.whatsapp.com/send/?phone=1234567890"
+              target="_blank"
               className="border border-redest-dark p-2 rounded-lg hover:scale-95 transition-transform duration-300"
             >
               <RiWhatsappFill className="text-redest-dark w-6 h-6" />

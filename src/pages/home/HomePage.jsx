@@ -6,9 +6,7 @@ import img2 from "../../assets/home/Malta.jpg";
 import img3 from "../../assets/home/Romania.jpg";
 import img4 from "../../assets/home/Russia.jpg";
 import img5 from "../../assets/home/Hungry.jpg";
-import { motion } from "framer-motion";
 import { useTranslation } from "react-i18next";
-import { BiSearch } from "react-icons/bi";
 import Stats from "./Stats";
 import Objective from "./Objective";
 import Universitys from "./Universitys";
@@ -16,7 +14,6 @@ import Testimonial from "./Testimonial";
 import ProgramsTab from "./ProgramsTab";
 import Carusel from "./Carusel";
 import { FaArrowRight, FaPlaneDeparture } from "react-icons/fa";
-import { GiPathDistance } from "react-icons/gi";
 import { GrServices } from "react-icons/gr";
 const HomePage = () => {
   const { t } = useTranslation();
@@ -209,11 +206,11 @@ const HomePage = () => {
         <Objective />
       </section>
 
-      <section>
+      <section className="mb-20">
         <Universitys />
       </section>
 
-      <section className="bg-[#d4ba97] my-6">
+      <section className="bg-red-gray my-6">
         <Testimonial />
       </section>
       <ProgramsTab />

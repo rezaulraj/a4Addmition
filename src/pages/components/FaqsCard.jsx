@@ -14,7 +14,7 @@ const FaqsCard = (props) => {
 
   return (
     <div
-      className="space-y-3 mt-5 overflow-hidden border-b"
+      className="space-y-3 mt-5 overflow-hidden border-b border-gray-400"
       key={idx}
       onClick={handleOpenAnswer}
     >
@@ -23,7 +23,7 @@ const FaqsCard = (props) => {
         {state ? (
           <svg
             xmlns="http://www.w3.org/2000/svg"
-            className="h-5 w-5 text-gray-500 ml-2"
+            className="h-5 w-5 text-gray-500 ml-2 "
             fill="none"
             viewBox="0 0 24 24"
             stroke="currentColor"
@@ -38,7 +38,7 @@ const FaqsCard = (props) => {
         ) : (
           <svg
             xmlns="http://www.w3.org/2000/svg"
-            className="h-5 w-5 text-gray-500 ml-2"
+            className="h-5 w-5 text-gray-500 ml-2 hover:animate-spin"
             fill="none"
             viewBox="0 0 24 24"
             stroke="currentColor"
@@ -58,7 +58,50 @@ const FaqsCard = (props) => {
         style={state ? { height: answerH } : { height: "0px" }}
       >
         <div>
-          <p className="text-gray-900 font-quicksand text-lg">{faqsList.a}</p>
+          {faqsList.a && (
+            <p className="text-gray-900 font-quicksand text-lg">{faqsList.a}</p>
+          )}
+          {faqsList.a1 && (
+            <div className="space-y-2">
+              <h3 className="text-gray-900 font-quicksand text-lg font-bold">
+                {faqsList.h1}
+              </h3>
+              <p className="text-gray-900 font-quicksand text-lg">
+                {faqsList.a1}
+              </p>
+              <h3 className="text-gray-900 font-quicksand text-lg font-bold">
+                {faqsList.h2}
+              </h3>
+              <p className="text-gray-900 font-quicksand text-lg">
+                {faqsList.a2}
+              </p>
+              <h3 className="text-gray-900 font-quicksand text-lg font-bold">
+                {faqsList.h3}
+              </h3>
+              <p className="text-gray-900 font-quicksand text-lg">
+                {faqsList.a3}
+              </p>
+              {faqsList.lists && (
+                <ul className="p-6" style={{ listStyleType: "square" }}>
+                  {faqsList.lists.map((item, indx) => (
+                    <li
+                      key={indx}
+                      className="text-gray-900 font-quicksand text-lg"
+                    >
+                      {item.list}
+                    </li>
+                  ))}
+                </ul>
+              )}
+
+              <h3 className="text-gray-900 font-quicksand text-lg font-bold">
+                {faqsList.h4}
+              </h3>
+              <p className="text-gray-900 font-quicksand text-lg">
+                {faqsList.a4}
+              </p>
+            </div>
+          )}
         </div>
       </div>
     </div>

@@ -222,7 +222,7 @@
       "subTextR": {
         "btn": "FREE CONSULTATION",
         "subhr1": "Gapai mimpimu!",
-        "subpr1":"Rencanakan masa depanmu dengan Salak Ed",
+        "subpr1": "Rencanakan masa depanmu dengan Salak Ed",
         "subrph1": "Experience",
         "subrpt1": "With over 25 years of industry experience and nationwide partnerships",
         "subrph2": "Support",
@@ -255,26 +255,26 @@
         "thfh2p2": "International students in Canada may be eligible to work up to 20 hours per week on or off campus while they study. To work off-campus, you must have a study permit and be enrolled in a full-time program. You may also be eligible for a post-graduation work permit after you complete your program of study. Depending on your length of study, international students can obtain Post Graduate Work Permit (PGWP) up to there years.",
         "thfh2ph3": "Minimum Wage",
         "thfh2p3": "Minimum wage in Canada varies depending on the provinces. As of year 2022, the minimum wage rates in Canada are as follows:",
-        "thfh2p3l1":"Alberta: CAD 15.00 per hour",
-        "thfh2p3l2":"British Columbia: CAD 15.20 per hour",
-        "thfh2p3l3":"Manitoba: CAD 12.00 per hour",
-        "thfh2p3l4":"New Brunswick: CAD 12.50 per hour",
-        "thfh2p3l5":"Newfoundland and Labrador: CAD 12.50 per hour",
-        "thfh2p3l6":"Northwest Territories: CAD 15.20 per hour",
-        "thfh2p3l7":"Nova Scotia: CAD 12.95 per hour",
-        "thfh2p3l8":"Nunavut: CAD 16.00 per hour",
-        "thfh2p3l9":"Ontario: CAD 14.35 per hour",
-        "thfh2p3l10":"Prince Edward Island: CAD 13.25 per hour",
-        "thfh2p3l11":"Quebec: CAD 13.50 per hour",
-        "thfh2p3l12":"Saskatchewan: CAD 11.81 per hour",
-        "thfh2p3l13":"Yukon: CAD 15.20 per hour",
+        "thfh2p3l1": "Alberta: CAD 15.00 per hour",
+        "thfh2p3l2": "British Columbia: CAD 15.20 per hour",
+        "thfh2p3l3": "Manitoba: CAD 12.00 per hour",
+        "thfh2p3l4": "New Brunswick: CAD 12.50 per hour",
+        "thfh2p3l5": "Newfoundland and Labrador: CAD 12.50 per hour",
+        "thfh2p3l6": "Northwest Territories: CAD 15.20 per hour",
+        "thfh2p3l7": "Nova Scotia: CAD 12.95 per hour",
+        "thfh2p3l8": "Nunavut: CAD 16.00 per hour",
+        "thfh2p3l9": "Ontario: CAD 14.35 per hour",
+        "thfh2p3l10": "Prince Edward Island: CAD 13.25 per hour",
+        "thfh2p3l11": "Quebec: CAD 13.50 per hour",
+        "thfh2p3l12": "Saskatchewan: CAD 11.81 per hour",
+        "thfh2p3l13": "Yukon: CAD 15.20 per hour",
         "thfh2ph4": "Cooperative Education (Co-op)",
         "thfh2p4": "A program offered by many universities and colleges that allows students to gain practical work experience in their field of study. Students are typically required to meet academic performance standards and complete specific courses before being eligible for co-op placements. Most co-op placements last between four and eight months. Co-op programs are popular in Canada because they offer many benefits to students, including the opportunity to gain work experience, develop professional networks, and earn money to offset the cost of tuition. Co-op programs can also help students clarify their career goals and make more informed decisions about their future career paths.",
-        "thfh3":"Geography facts Canada",
+        "thfh3": "Geography facts Canada",
         "thfh3ph5": "Location",
-        "thfh2p5": "Canada is a country located in North America, spanning from the Atlantic Ocean in the east to the Pacific Ocean in the west, and northward into the Arctic Ocean. It is the second-largest country in the world by land area, covering 9.98 million square kilometers (3.85 million square miles). Canada is more than 5 times larger than Indonesia in terms of land area.",
-        "thfh2ph6": "Climate",
-        "thfh2p6": "Canada experiences four distinct seasons: spring, summer, fall, and winter Spring (March to May): In many parts of Canada, spring is characterized by mild temperatures and rain. spring temperatures can range from around 5°C to 20°C Summer (June to August): Summers in Canada are usually warm to hot, with temperatures ranging from 20°C to 35°C. Fall (September to November): The weather is usually mild and comfortable with temperatures ranging from 10°C to 20°C Winters in Canada are cold and snowy, with temperatures dropping well below freezing. Winter temperatures can range from around -10°C to -35°C depending on the region."
+        "thfh3p5": "Canada is a country located in North America, spanning from the Atlantic Ocean in the east to the Pacific Ocean in the west, and northward into the Arctic Ocean. It is the second-largest country in the world by land area, covering 9.98 million square kilometers (3.85 million square miles). Canada is more than 5 times larger than Indonesia in terms of land area.",
+        "thfh3ph6": "Climate",
+        "thfh3p6": "Canada experiences four distinct seasons: spring, summer, fall, and winter Spring (March to May): In many parts of Canada, spring is characterized by mild temperatures and rain. spring temperatures can range from around 5°C to 20°C Summer (June to August): Summers in Canada are usually warm to hot, with temperatures ranging from 20°C to 35°C. Fall (September to November): The weather is usually mild and comfortable with temperatures ranging from 10°C to 20°C Winters in Canada are cold and snowy, with temperatures dropping well below freezing. Winter temperatures can range from around -10°C to -35°C depending on the region."
       }
     }
   },
@@ -311,6 +311,12 @@
       "address1sub": "Salak Education Consulting Kitchener, Ontario, Canada",
       "address2": "Indonesian Address",
       "address2sub": "Jl. Yasmin Raya no. 16 A, Bogor"
+    },
+    "extra": {
+      "ch1": "Get in Touch with Us",
+      "cp1": "Leave us a message to get more information about study in Canada.",
+      "cp2": "You can visit us at our office in Bogor, or we can come to your place (Jabodetabek area only) for your convenience.",
+      "cp3": "We can also discuss via Zoom, or any digital platfrom to discuss more!"
     }
   }
 }
